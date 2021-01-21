@@ -16,20 +16,20 @@ Cuando he querido terminar la personalización le he dado a publicar y se han ap
 
 ## Plugins más utilizados de Wordpress
 
-- <strong>Contact Form 7.</strong> Para insertar formularios, simple y flexible.
+- **Contact Form 7.** Para insertar formularios, simple y flexible.
 
-- <strong>Google Analytics Dashboard.</strong> Para analizar nuestro sitio y ver datos relacionados con nuestras visitas.
+- **Google Analytics Dashboard.** Para analizar nuestro sitio y ver datos relacionados con nuestras visitas.
 
-- <strong>Jetpack.</strong> Conjunto de plugins para realizar copias de seguridad, evitar spam, escaneo de malware, etc.
+- **Jetpack.** Conjunto de plugins para realizar copias de seguridad, evitar spam, escaneo de malware, etc.
 
-- <strong>Autoptimize.</strong> Para optimizar los códigos css, javascript, y otros aspectos de nuestra página.
+- **Autoptimize.** Para optimizar los códigos css, javascript, y otros aspectos de nuestra página.
 
 ## Instalando un plugin
 
 En el panel de administración vamos a la sección Plugins, dentro, le damos a añadir nuevo y tendremos a nuestra disposición todos los plugin disponibles. Si queremos buscar un plugin en concreto tenemos una barra de búsqueda en la que ponemos el nombre del plugin y lo localizaremos.
 
-- <strong>Contact Form 7.</strong> Una vez localizado el plugin, le damos a instalar y después a activar. Podemos configurar el formulario para cambiar la dirección de correo a la que se tienen que enviar los correos y demás.
+- **Contact Form 7.** Una vez localizado el plugin, le damos a instalar y después a activar. Podemos configurar el formulario para cambiar la dirección de correo a la que se tienen que enviar los correos y demás.
 
-- <strong>Stats.</strong> Es un plugin que se puede utilizar después de instalrse, no requiere configuraciones específicas.
+- **Stats.** Es un plugin que se puede utilizar después de instalrse, no requiere configuraciones específicas.
 
 De esta forma podemos personalizar Wordpress en algunos aspectos básicos.
